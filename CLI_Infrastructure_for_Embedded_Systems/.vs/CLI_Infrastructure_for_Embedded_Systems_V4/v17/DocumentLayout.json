@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems_V4\\",
+  "WorkspaceRootPath": "C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{529EE55F-31AF-4EDF-BF43-6401BC53D423}|CLI_Infrastructure_for_Embedded_Systems_V4.vcxproj|C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems_V4\\cli.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{529EE55F-31AF-4EDF-BF43-6401BC53D423}|CLI_Infrastructure_for_Embedded_Systems_V4.vcxproj|C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems\\cli.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{529EE55F-31AF-4EDF-BF43-6401BC53D423}|CLI_Infrastructure_for_Embedded_Systems_V4.vcxproj|solutionrelative:cli.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{529EE55F-31AF-4EDF-BF43-6401BC53D423}|CLI_Infrastructure_for_Embedded_Systems_V4.vcxproj|C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems_V4\\application.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{529EE55F-31AF-4EDF-BF43-6401BC53D423}|CLI_Infrastructure_for_Embedded_Systems_V4.vcxproj|C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems\\application.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{529EE55F-31AF-4EDF-BF43-6401BC53D423}|CLI_Infrastructure_for_Embedded_Systems_V4.vcxproj|solutionrelative:application.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{529EE55F-31AF-4EDF-BF43-6401BC53D423}|CLI_Infrastructure_for_Embedded_Systems_V4.vcxproj|C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems_V4\\cli.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{529EE55F-31AF-4EDF-BF43-6401BC53D423}|CLI_Infrastructure_for_Embedded_Systems_V4.vcxproj|C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems\\cli.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{529EE55F-31AF-4EDF-BF43-6401BC53D423}|CLI_Infrastructure_for_Embedded_Systems_V4.vcxproj|solutionrelative:cli.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "cli.h",
-              "DocumentMoniker": "C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems_V4\\cli.h",
+              "DocumentMoniker": "C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems\\cli.h",
               "RelativeDocumentMoniker": "cli.h",
-              "ToolTip": "C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems_V4\\cli.h",
+              "ToolTip": "C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems\\cli.h",
               "RelativeToolTip": "cli.h",
               "ViewState": "AQIAACIAAAAAAAAAAAAYwCYAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "cli.c",
-              "DocumentMoniker": "C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems_V4\\cli.c",
+              "DocumentMoniker": "C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems\\cli.c",
               "RelativeDocumentMoniker": "cli.c",
-              "ToolTip": "C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems_V4\\cli.c",
+              "ToolTip": "C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems\\cli.c",
               "RelativeToolTip": "cli.c",
               "ViewState": "AQIAAGoAAAAAAAAAAAAAAHoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "application.c",
-              "DocumentMoniker": "C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems_V4\\application.c",
+              "DocumentMoniker": "C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems\\application.c",
               "RelativeDocumentMoniker": "application.c",
-              "ToolTip": "C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems_V4\\application.c",
+              "ToolTip": "C:\\Users\\mailt\\source\\repos\\CLI_Infra_for_ES\\CLI_Infrastructure_for_Embedded_Systems\\application.c",
               "RelativeToolTip": "application.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",

@@ -1,15 +1,19 @@
 This is my project "CLI Infrastructure for Embedded Devices". 
 In the realm of embedded systems, a Command-Line Interface (CLI) plays a crucial role. Let’s delve into its significance:
----Development and Debugging:
+
+--->Development and Debugging:
 During development, a CLI provides a straightforward way to run commands repeatedly. This is essential for verifying functionality, performing system-level tests, and ensuring that features work as expected.
 Debugging embedded systems often involves stepping through code in a debugger. However, relying solely on debuggers can be cumbersome and time-consuming. A CLI offers an alternative for efficient testing without the need for extensive software know-how.
----Manufacturing and Testing:
+
+--->Manufacturing and Testing:
 When manufacturing embedded devices, it’s essential to validate their functionality. A CLI simplifies this process by allowing manufacturers to execute specific commands.
 Unlike debuggers, which may not be available or practical for non-developers, a CLI provides a user-friendly interface accessible during production.
----Communication Flexibility:
+
+--->Communication Flexibility:
 Embedded systems communicate through various interfaces: USB, UART, Bluetooth, Ethernet, and more. A well-designed CLI abstracts away the underlying communication protocol.
 Developers and manufacturers can use the CLI over the most convenient interface for their situation, ensuring flexibility and ease of use.
----Resource Efficiency:
+
+--->Resource Efficiency:
 CLI commands are text-based and require minimal memory and processing power. Unlike graphical interfaces, they don’t burden the system with heavy graphical elements.
 Executing the same command via a CLI typically involves fewer steps compared to a graphical user interface (GUI), making it an efficient choice for specific tasks
 
